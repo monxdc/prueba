@@ -9,7 +9,7 @@ public class Ejercicio2 {
         num3=num1*3;
         System.out.println("El doble es: " +num2);
         System.out.println("El triple es: " +num3);
-        
+          System.out.println("Holaaaaaaa");
         
         
         
