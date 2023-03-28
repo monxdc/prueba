@@ -10,7 +10,7 @@ public class Ejercicio2 {
         System.out.println("El doble es: " +num2);
         System.out.println("El triple es: " +num3);
           System.out.println("Holaaaaaaa");
-        
+        System.out.println("PRUEBA 1");
         
         
         
